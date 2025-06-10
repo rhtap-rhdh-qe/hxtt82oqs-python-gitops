@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hxtt82oqs-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hxtt82oqs-python
